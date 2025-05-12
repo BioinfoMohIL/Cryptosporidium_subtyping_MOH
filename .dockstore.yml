@@ -2,4 +2,4 @@ version: 1.2
 workflows:
  - name: Cryptosporidiun_Subtyping_MOH
    subclass: WDL
-   primaryDescriptorPath: /nm_typing_wf.wdl
+   primaryDescriptorPath: /crypto_gp60_subtype.wdl
